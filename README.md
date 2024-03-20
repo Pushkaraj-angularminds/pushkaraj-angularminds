@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pushkaraj Sable
-- 🌱 I’m currently working on ReactJS
+- 🌱 I’m currently working on React.js and Vue.js
 - 📫 How to reach me pushkarajsable123@gmail.com
 
 <!---
